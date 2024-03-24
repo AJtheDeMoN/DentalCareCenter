@@ -6,7 +6,7 @@ import Home from './screens/Home'
 import Contact from './screens/Contact'
 import Test from './screens/test'
 import Braces from './screens/Services/braces'
-import {HashRouter as Router, Routes, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
   return (
